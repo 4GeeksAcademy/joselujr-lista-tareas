@@ -28,7 +28,7 @@ const Home = () => {
 			/>
 
 			{tareas.length === 0 && <p>No hay tareas, añadir tareas</p>}
-			<ul>
+			<ul className="lista">
 				{
 					tareas.map((tarea, index) => {
 						return (
