@@ -1,7 +1,7 @@
 body {
     margin: 0;
     min-height: 100vh;
-    background: linear-gradient(135deg, #0d1b2a, #1b263b, #000814);
+    background: linear-gradient(130deg, #404f5f, #1a325f, #000814);
 }
 
 .container-master{
@@ -13,7 +13,7 @@ body {
     color: #e63e4c;
     opacity: 0.7;
     font-size: 5rem;
-    font-weight: 200;
+    font-weight: 320;
     margin-bottom: 20px
 }
 
